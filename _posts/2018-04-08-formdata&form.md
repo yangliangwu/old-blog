@@ -4,7 +4,7 @@ title: "form与formdata"
 subtitle: ''
 date: 2018-04-03
 categories: 技术
-cover: 'my-blog/assets/img/打字机.jpg'
+cover: 'assets/img/打字机.jpg'
 tags: 技术
 published: true
 ---
