@@ -33,13 +33,11 @@
     {% if page.subtitle %}
     <h2 class="post-subtitle">{{ page.subtitle }}</h2>
     {% endif %}
-
-    <div style="overflow:hidden">
+    
       <article class="markdown-body">
         {{ page.content }}
       </article>
-    </div>
-    
+        
     {% if site.social-share %}
     <div class="social-share-wrapper">
       <div class="social-share"></div>
