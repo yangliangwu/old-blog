@@ -5,7 +5,7 @@ subtitle: ''
 date: 2018-04-11
 categories: 技术
 cover: '/assets/img/静夜.jpg'
-tags: Javascript,this
+tags: Javascript
 published: true
 ---
 
