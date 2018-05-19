@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "form与formdata"
-subtitle: ''
+subtitle: 'form与formdata'
 date: 2018-04-03
 categories: 技术
 cover: '/assets/img/打字机.jpg'
@@ -11,9 +11,9 @@ published: true
 ---
 
 
-# 使用FormData和AJAX上传图片
+# 使用FormData和AJAX上传图片:
 
-```javascript
+``javascript
 uploadAvatar () {
   // 创造一个文件上传的input标签
   let input = document.createElement('input')
@@ -41,15 +41,15 @@ uploadAvatar () {
   // 触发点击事件
   input.click() 
 }
-```
+``
 
 ---
 
 # 使用form标签上传图片
 
-```html
+``html
 <form action="http://localhost:3000/users/avatar" method="POST" enctype="multipart/form-data">
     <input type="file" name="avatar">
     <button type="submit">提交</button>
 </form>
-```
+``
