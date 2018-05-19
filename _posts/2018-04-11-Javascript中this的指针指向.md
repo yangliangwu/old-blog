@@ -4,8 +4,8 @@ title: "Javascript中this的指针指向"
 subtitle: ''
 date: 2018-04-11
 categories: 技术
-cover: 'http://on2171g4d.bkt.clouddn.com/jekyll-theme-h2o-postcover.jpg'
-tags: Javascript中this的指针指向
+cover: '/assets/img/静夜.jpg'
+tags: Javascript,this
 published: true
 ---
 
