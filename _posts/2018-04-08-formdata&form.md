@@ -12,7 +12,7 @@ published: true
 
 # 使用FormData和AJAX上传图片
 
-```javascript
+
 uploadAvatar () {
   // 创造一个文件上传的input标签
   let input = document.createElement('input')
@@ -41,7 +41,7 @@ uploadAvatar () {
   input.click()
  
 }
-```
+
 
 ---
 
