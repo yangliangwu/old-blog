@@ -1,11 +1,10 @@
 ---
 layout: post
 title: "form与formdata"
-#subtitle: ''
+#subtitle: '使用FormData和AJAX上传图片'
 date: 2018-04-03
 categories: 技术
 cover: '/assets/img/打字机.jpg'
-tags: HTML
 tags: AJAX
 published: true
 ---
