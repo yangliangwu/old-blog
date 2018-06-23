@@ -26,7 +26,7 @@ avatar: 'assets/img/20150125_1530064_mh1422171589414.jpg'
 search: true
 
 # Night mode
-nightMode: true
+nightMode: false
 
 # Comments 评论功能
 comments:
